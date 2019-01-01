@@ -1,31 +1,24 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<p align="center">Case - Programador Junior</p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
-
-##Instalação
+## Instalação
 Laravel 5.7
 
-composer install
-npm install
-php artisan migrate
-php artisan db:seed
-php artisan passport:install
-php artisan serve
+composer install<br>
+npm install<br>
+php artisan migrate<br>
+php artisan db:seed<br>
+php artisan passport:install<br>
+php artisan serve<br>
 
 Administrador:
 
-email: admin@ipedigital.com.br
-senha 123456
+    email: admin@ipedigital.com.br
+    senha 123456
 
 Usuário:
 
-email: vncsmqrs@ipedigital.com.br
-senha: 123456
+    email: vncsmqrs@ipedigital.com.br
+    senha: 123456
 
 ## About Laravel
 
