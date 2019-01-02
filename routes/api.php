@@ -14,8 +14,8 @@ use App\User;
 |
 */
 
-Route::post('login', 'PassportController@login');
-Route::post('register', 'PassportController@register');
+Route::post('auth/login', 'PassportController@login');
+Route::post('auth/register', 'PassportController@register');
  
 Route::middleware('auth:api')->group(function () {
     Route::get('user', 'PassportController@details');

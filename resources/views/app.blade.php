@@ -12,7 +12,7 @@
     </head>
     <body>
        <div id="app">
-            
+            <main-app></main-app>
        </div>
     </body>
     <script src="{{ elixir('js/app.js') }}"></script>
